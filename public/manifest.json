@@ -1,0 +1,15 @@
+{
+    "name": "Weather App",
+    "short_name": "WA",
+    "start_url": "/index.blade.php",
+    "background_color": "#6777ef",
+    "description": "Weeather App",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [{
+        "src": "logo.PNG",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }]
+}
